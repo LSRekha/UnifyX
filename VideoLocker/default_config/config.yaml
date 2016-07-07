@@ -1,0 +1,14 @@
+API_HOST_URL: 'http://unifyx.com' # localhost is 10.0.2.2 in Android
+ENVIRONMENT_DISPLAY_NAME: 'UnifyX'
+PLATFORM_NAME: 'UnifyX'
+PLATFORM_DESTINATION_NAME: 'unifyx.com'
+FEEDBACK_EMAIL_ADDRESS: 'contact@unifyx.com'
+COURSE_ENROLLMENT:
+    ENABLED: true
+    EXTERNAL_COURSE_SEARCH_URL: 'http://unifyx.com/courses'
+GOOGLE:
+    ENABLED: true
+    GOOGLE_PLUS_KEY: "AIzaSyAqK8JW7qcK_uhaPQ3AZpyqvT1Ls3WMF2c"
+FACEBOOK:
+    ENABLED: true
+    FACEBOOK_APP_ID: "1058982154136992"
